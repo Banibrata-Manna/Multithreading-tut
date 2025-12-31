@@ -12,3 +12,10 @@ When a Java Virtual Machine starts up, there is usually a single non-daemon thre
 - extend Thread Class and override run()
 - implement Runnable Interface an override run()
   - Create a Thread Object by constructor thread(<You Runnable Class>)
+
+#### Lifecycle of Thread
+- New: Created but not started yet.
+- Runnable: Start method is called, and is ready to run, waiting for CPU time.
+- Running: Thread being executed.
+- Blocked/Waiting: Waiting for resource
+- Terminated: Finished Executing
