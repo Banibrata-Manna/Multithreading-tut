@@ -30,6 +30,8 @@ Every object in Java has an **intrinsic lock** (also called a **monitor** or **m
 - **Example**: [SynchronizedDemo.java](file:///Users/banibratamanna/siksha/java/multithreading/beginner/src/main/basics/synchronization/SynchronizedDemo.java)
 - **Test Case**: [SynchronizedTest.java](file:///Users/banibratamanna/siksha/java/multithreading/beginner/src/test/basics/synchronization/SynchronizedTest.java)
 
+#### References
+- [Baeldung Article](https://www.baeldung.com/java-synchronized#overview)
 
 ## How to Run Tests
 Since this is a standard project structure, you can run the tests through your IDE (IntelliJ IDEA) by right-clicking on the `src/test` folder and selecting **Run 'All Tests'**.
